@@ -26,6 +26,34 @@ A secure web-based voting platform where users can register as voters or candida
 
 ---
 
+## 📸 Screenshots
+
+###  Home Page
+![Home](screenshots/home1.png)
+![Home](screenshots/home2.png)
+
+###  Login & Register
+![Login](screenshots/login.png)
+![Register](screenshots/register.png)
+
+###  User Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+###  Admin Dashboard
+![Admin Dashboard](screenshots/admindashboard1.png)
+![Admin Dashboard](screenshots/admindashboard2.png)
+![Admin Dashboard](screenshots/admindashboard3.png)
+
+### Candidates View
+![Candidates](screenshots/candidates1.png)
+![Candidates](screenshots/candidates2.png)
+
+### Admin Login
+![Admin Login](screenshots/adminlogin.png)
+
+### About Page
+![About](screenshots/about.png)
+
 ##  Project Structure
 
 - images/ → UI assets  
